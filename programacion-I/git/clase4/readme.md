@@ -39,7 +39,7 @@ Ejecutamos los sigueintes comandos:
 - git commit
 > Se abre un editor de código basado en línea de comandos, editor de texto como VSC llamado vim
 - Esc + i
-- Para comenzar a escribir mensaje del commit, no suele ser necesario
+> Para comenzar a escribir mensaje del commit, no suele ser necesario
 - ctrl + x
 > Para salir en linux
 - s + enter
