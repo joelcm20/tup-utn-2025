@@ -10,7 +10,7 @@ Entonces tenemos el área de trabajo, cuando colocamos git add historia.txt pasa
 
 ## ¿Qué es Gitflow? 
 
-![gitflow](./gitflow.png)
+![gitflow](https://github.com/joelcm20/tup-utn-2025/blob/main/programacion-I/git/clase5/gitflow.png)
 
 Gitflow es un modelo alternativo de creación de ramas en Git en el que se utilizan ramas de función y varias ramas principales. Fue Vincent Driessen en nvie quien lo publicó por primera vez y quien lo popularizó.
 
