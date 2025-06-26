@@ -1,5 +1,3 @@
-package clase7;
-
 public class OpAritmeticas {
     public static void main(String[] args) {
         int num1 = 10, num2 = 16;
