@@ -1,4 +1,4 @@
-class Case1 {
+public class Ejercicio1  {
     public static void main(String[] args) {
         /*
          * Construir un programa que, dado un número total de
@@ -9,7 +9,7 @@ class Case1 {
          * 
          * 6 días y 16 horas.
          */
-        int horas = 25;
+        int horas = 100;
         int semanas = horas / 168;
         int dias = (horas % 168) / 24;
         int horasRestantes = (horas % 168) % 24;

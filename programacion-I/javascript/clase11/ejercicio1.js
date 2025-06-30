@@ -43,7 +43,6 @@ switch (mes) {
     console.log("Valor incorrecto");
 }
 
-
 // metodo con funcion
 let meses = [
   "Enero",
